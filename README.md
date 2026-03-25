@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 
 </div>
 
@@ -94,24 +94,13 @@ const OsamaZaki = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/osamazakiofficial/)
-[![Portfolio](https://www.behance.net/osamazaki4)
-[![Email](https://mail.yahoo.com/d/folders/1?reason=invalid_cred)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamazakiofficial/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/osamazaki4)
+[![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:o.zaki95@yahoo.com)
 
 </div>
 
