@@ -4,8 +4,6 @@
 
 <br/>
 
-
-
 </div>
 
 ---
@@ -36,8 +34,10 @@ I'm a passionate **Frontend Developer** who believes that great products start w
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 
-### Backend (Basic)
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Design & Tools
@@ -79,7 +79,7 @@ const OsamaZaki = {
   role: "Frontend Developer",
   experience: "2+ years",
   frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "SASS"],
-  backend: ["Node.js", "RESTful APIs"],
+  backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
   design: ["Figma", "Adobe XD", "Photoshop", "Illustrator", "InDesign"],
   tools: ["Git", "GitHub", "SEO Optimization", "Responsive Design"],
   softSkills: [
@@ -91,6 +91,26 @@ const OsamaZaki = {
   ]
 };
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="32.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="32.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="32.5%"/>
+</a>
+
+<details>
+  <summary>📈 More Stats</summary>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="98%"/>
+</details>
+
+</div>
 
 ---
 
